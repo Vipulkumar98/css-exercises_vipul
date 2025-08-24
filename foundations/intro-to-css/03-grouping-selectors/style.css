@@ -1,0 +1,17 @@
+/* a font size of 28px and a list of fonts containing Helvetica and Times New Roman, with sans-serif as a fallback */
+.classic, 
+.retro {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+/* a black background and white text */
+.classic {
+    background-color: black;
+    color:white;
+}
+
+/* a yellow background */
+.retro {
+    background-color: yellow;
+}
